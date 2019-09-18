@@ -6,14 +6,14 @@
             </div>
     
             <div class="col-md-7 col-xs-12">
-                <h1 id="">Fraternidade de Igrejas e Instituições religiosas do Brasil</h1>
-                    <p>A Fraternidade de Igrejas e Instituições religiosas do Brasil é uma organização religiosa, sem identidade confessional, que tem como objetivo reunir periodicamente pessoas, igrejas e instituições religiosas para reflexão sobre o papel que cada uma delas vem desempenhando na sociedade.</p>
+                <h1 id="">Canudos Ontem e Hoje</h1>
+                    <p>Canudos Ontem e Hoje é um projeto do CEPESC para tornar a história de Canudos conhecida e celebrada em Salvador anualmente, na primeira semana de outubro, lembrando a fundação do Arraial do Belo Monte de Antonio Conselheiro, em 1893, a sua destruição, em 1897, e o longo processo e a luta para a sua ressurreição e o resgate histórico. </p>
             </div>
         </div>
     </div>
 </div>
 
-<div id="content">
+<div class="content">
 
     <aside class="sidebar">
             <div class="col-md-12 col-xs-12">
@@ -24,7 +24,7 @@
                     </ul>
             </div>
     </aside>
-
+ 
     <div class="container">	
         <div class="row">
             <div class="col-md-12 col-xs-12">
@@ -39,5 +39,4 @@
             </div>
         </div>
     </div>
-
 </div>

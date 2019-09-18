@@ -18,7 +18,7 @@
 			<div class="navbar-header">
 		    	<a href="?i=home" alt="CEPESC - home" title="Home"><img id="logo" src="app/img/logo.png" alt="icone CEPESC" ></a>
 
-				<button type="button" style="margin-top:25px" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu_lista" aria-expanded="false">
+				<button id="botao-nav" type="button" style="margin-top:25px" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu_lista" aria-expanded="false">
 					<span style="background-color:#c29d52" class="icon-bar"></span>
 					<span style="background-color:#c29d52" class="icon-bar"></span>
 					<span style="background-color:#c29d52" class="icon-bar"></span>
@@ -32,6 +32,7 @@
 					<li class="link_menu"><a href="?i=artigos">Artigos</a></li>
 					<!--<li class="link_menu"><a href="?i=local">Contato</a></li> -->
 					<li class="link_menu"><a href="?i=djalma">Pr Djalma</a></li>
+					<li class="link_menu"><a href="?i=canudos">Canudos Ontem e Hoje</a></li>
 				</ul>
 			</div>
 		</div>

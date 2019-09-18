@@ -50,6 +50,10 @@ switch ($pagina) {
     case 'local':
         include 'app/views/local.php';
         break;
+
+    case 'canudos':
+        include 'app/views/canudos.php';
+        break;
     
     default:
 		include 'app/views/home.php';
