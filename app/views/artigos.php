@@ -6,19 +6,17 @@
     
     <div id="content">
         <aside class="sidebar"> 
-            <div class="col-md-12 col-xs-12">
                 <h3>índice</h3>
                     <ul>
                         <li><a href="#Brincando de Ioiô">Brincando de Ioiô</a></li>
                         <li><a href="#Sobre Deuses e Rezas">Sobre Deuses e Rezas</a></li>
                         <li><a href="#Uma História">Uma História</a></li>
                     </ul>
-            </div>
         </aside>
 
     <div class="container">	
         <div class="row">
-            <div class="col-md-12 col-xs-12">
+            <div class="col-md-10 col-xs-12">
                 <div class="artigo">
                     <h2 >Brincando de Ioiô</h2>
                     <cite>Pr Antônio Ribeiro<cite>
