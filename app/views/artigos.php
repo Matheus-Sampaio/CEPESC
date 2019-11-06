@@ -13,7 +13,7 @@
                         <li><a href="#Uma História">Uma História</a></li>
                     </ul>
         </aside>
-
+<div class="wrapper">
     <div class="container">	
         <div class="row">
             <div class="col-md-10 col-xs-12">
@@ -77,3 +77,4 @@
             </div>
         </div>
      </div>
+</div>

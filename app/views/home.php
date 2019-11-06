@@ -54,7 +54,7 @@
 
 				<div class="thumbnail"> 
 					<!--<a href="?i=cafe">-->
-					<img src="app/img/cafe.png" alt="Café Conhecimento" class="img-responsive"> 
+					<img src="app/img/CC.png" alt="Café Conhecimento" class="img-responsive"> 
 					<div class="caption"> 
 						<p>O Café Conhecimento tem o objetivo de apresentar, debater e esclarecer, a partir de eventos, temas contemporâneos da nossa sociedade, a serem expostos nas mais diversas modalidades de conhecimento.</p> 
 					</div> 

@@ -2,11 +2,11 @@
     <div class="container">	
         <div class="row">
             <div class="col-md-5 col-xs-12">
-                    <img src="app/img/img6.jpg" alt="Foto Cidade Canudos" id="img6" class="img-responsive">
+                    <img src="app/img/IEA.png" alt="Logo Igreja Evangélica Antioquia" id="imgIEA" class="img-responsive">
             </div>
     
             <div class="col-md-7 col-xs-12">
-                <h1 id="ESTUDO SOBRE A IGREJA DE ANTIOQUIA">Canudos Ontem e Hoje</h1>
+                <h1 id="ESTUDO SOBRE A IGREJA DE ANTIOQUIA">Igreja Evangélica Antioquia</h1>
                     <p>A Igreja Evangélica Antioquia é uma comunidade alternativa, de formação evangélica, missionária, profética, tolerante, fraterna e solidária, organizada em Salvador, Bahia, em 01 de março de 2007.</p>
                     <p>Tem como Lema: Uma Igreja a serviço da Fé e da vida. E como fundamento bíblico, teológico e eclesiológico: Atos 11:19-29, 13:1-3; 15:1-35.</p>   
                     <p>Reúne-se no primeiro domingo do mês, pela manhã, na sede do CEPESC, no Tororó, encerrando sempre as suas reuniões com um almoço de confraternização.</p>         
@@ -26,7 +26,7 @@
                     </ul>
             </div>
     </aside>
- 
+    <div class="wrapper">
     <div class="container">	
         <div class="row">
             <div class="col-md-12 col-xs-12">
@@ -111,5 +111,5 @@
             </div>
         </div>
     </div>
-
+</div>
 </div>
