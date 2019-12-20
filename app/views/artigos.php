@@ -11,6 +11,7 @@
                         <li><a href="#Brincando de Ioiô">Brincando de Ioiô</a></li>
                         <li><a href="#Sobre Deuses e Rezas">Sobre Deuses e Rezas</a></li>
                         <li><a href="#Uma História">Uma História</a></li>
+                        <li><a href="#Movimento Vozes de Salvador">Movimento Vozes de Salvador</a></li>
                     </ul>
         </aside>
 <div class="wrapper">
@@ -71,10 +72,77 @@
                      <p>Mas depois de falar todas as coisas que o seu Deus mandou que ele falasse, o homem simples e do interior falou de esperança e anunciou as promessas de Deus, as coisas boas que iriam acontecer no futuro. Ele disse que um dia a situação iria ser diferente, que ninguém mais seria escravo de ninguém, todos seriam livres; que os pobres, as mulheres e as crianças seriam respeitados; e que todos seriam importantes para Deus. Ele não disse quando esse milagre iria acontecer, mas disse até o nome do lugar.</p>
                      <p>E aconteceu que um homem da cidade, que gostava de escrever, ouviu tudo, anotou cuidadosamente as suas palavras, que foram passando de geração para geração, de povo para povo, até chegar a nós. E as palavras do homem que falava com Deus foram as seguintes:</p>
                      <p><i>“ E tu, Belém Efrata, pequena demais para figurar como grupo de milhares de Judá, de ti me sairá o que há de reinar em Israel, e cujas origens são desde os dias da eternidade.” (Miquéias 5:2).</i><p>
-                     <p><br>Ah! O nome do homem que falava com Deus era Miquéias. Ele anunciava o nascimento de Jesus Cristo.</p>
+                     <p><br ID="Movimento Vozes de Salvador">Ah! O nome do homem que falava com Deus era Miquéias. Ele anunciava o nascimento de Jesus Cristo.</p>
                      <cite>Pr. Djalma Torres. Texto publicado no <i>livro Caminhos de Pedra<i> de sua autoria, editado em 2011 pela Curviana.</cite>
                 </div>
             </div>
         </div>
      </div>
+
+     <div class="container">	
+        <div class="row">
+            <div class="col-md-12 col-xs-12">
+                <div class="artigo">
+                     <h2>Movimento Vozes de Salvador</h2>
+                     <cite>Ordep Serra<cite>
+                    <div class="ordep">
+                        <img class="ordep-img "  src="app/img/ordep.JPG" alt="O Antropólogo Ordep Serra">
+                        <cite>O Antropólogo Ordep Serra</cite>
+                    </div>
+                     
+                     <p>O MOVIMENTO VOZES DE SALVADOR vem a público denunciar a agressão criminosa de que a cidade foi vítima, atingida por sucessivos desmandos da administração iníqua e deletéria do Sr. João Henrique Barradas Carneiro, cujos despautérios, seguidos e crescentes, culminaram na sanção de uma lei municipal que desrespeita leis federai e à própria Constituição Brasileira, configurando um verdadeiro golpe contra a democracia e o estado de direito. É de conhecimento geral que Salvador foi reduzida a uma situação de descalabro por essa administração irresponsável, bisonha, divorciada do interesse público, complacente com a ganância imobiliária, hostil ao povo. São muitos os motivos para protesto: a degradação da orla, a devastação ambiental, a privatização descarada de espaços públicos, o colapso da mobilidade urbana com o estrangulamento crescente no trânsito, as roubalheiras no metrô e da Transferência do Direito de Construir - Transcon (entre outras rapinagens), a desmoralização do planejamento urbano, a sujeira, as ruas esburacadas, o aumento infrene da violência e da segregação da miséria e do turismo sexual, à precariedade dos serviços públicos de atendimento ao cidadão em todas as áreas básicas (com destaque para o péssimo funcionamento dos postos de saúde e das escolas municipais), os acordos subterrâneos com a máfia dos transportes e a máfia do lixo, o colapso financeiro do município, a falta de transparência em todos os planos de gestão, principalmente no tratamento das verbas e contas públicas, o agravamento das condições negativas que deterioram a qualidade de vida da população nas áreas da periferia e do miolo, o vilipêndio da cultura com o injurioso tratamento dispensado ao patrimônio histórico e artístico da cidade, o desrespeito sistemático aos artistas e produtores independentes, a mercantilização e grosseira deformação do carnaval baiano, das festas e tradições populares da urbe, o desfiguramento sistemático da paisagem soteropolitana por descaso do gestor e por sua conveniência com os interesses espúrios de quem a compromete e depreda. Já é muito, sem dúvida, todavia, um patamar ainda mais grave foi atingido com a açodada proposição e votação de um LOUOS em período exíguo, sem possibilidade de análise pelos edis, sem verdadeira consulta pública, reduzida á uma farsa, e com desacato a interdito judicial, alterando brutalmente o Plano Diretor do Desenvolvimento Urbano o PDDU, que deveria apenas regulamentar, mutilando o Conselho da Cidade antes d éter instalado o assim fazendo a violência à lei federal, a democracia participativa que a Constituição preconiza e ao interesse público. No bojo dessa legislação insana, sacrifica-se à ganância imobiliária a última grande reserva de mata atlântica de Salvador, o Vale Encantado, que inclui área sagrada para as religiões de matriz africana; além disso, aumenta-se estupidamente o gabarito das edificações da orla, de tal que promove o sombreamento das praias e reduz de forma criminosa a aeração da cidade, entre outras aberrações. O MOVIMENTO VOZES DE SALVADOR conclama todos os cidadãos a lutarem pelos seus direitos ameaçados, opondo-se a essa onda de violência que se volta contra a capital da Bahia e atinge de maneira brutal nossas leis maiores.</p>
+                     <p class="direita">Salvador, 23 de Janeiro de 2012</p>
+                     <cite>Ordep Serra – Coordenador do Movimento Vozes de Salvador</cite>
+                </div>
+            </div>
+        </div>
+     </div>
+
+     <div class="container">	
+        <div class="row">
+            <div class="col-md-12 col-xs-12">
+                <div class="artigo">
+                     <h2></h2>
+                     <cite><cite>
+                     <p></p>
+                     <p></p>
+                     <p></p>
+                     <p></p>
+                     <p></p>
+                     <p></p>
+                     <p></p>
+                     <p></p>
+                     <p></p>                     
+                     <p></p>
+                     <cite></cite>
+                </div>
+            </div>
+        </div>
+     </div>
+
+
+     <div class="container">	
+        <div class="row">
+            <div class="col-md-12 col-xs-12">
+                <div class="artigo">
+                     <h2></h2>
+                     <cite><cite>
+                     <p></p>
+                     <p></p>
+                     <p></p>
+                     <p></p>
+                     <p></p>
+                     <p></p>
+                     <p></p>
+                     <p></p>
+                     <p></p>                     
+                     <p></p>
+                     <cite></cite>
+                </div>
+            </div>
+        </div>
+     </div>
+
+
+
 </div>

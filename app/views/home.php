@@ -7,7 +7,7 @@
 
 			<div class="col-md-7 col-xs-12">
 				<h1>O que é o CEPESC</h1>
-				<p>O Centro de Pesquisa, Estudos, Serviço e Cultura. Nasceu do sonho, da utopia e da luta pela criação de um entidade que refletisse, a partir da perspectiva cristã e no contexto da diversidade cultural, social e religiosa brasileira e da Bahia, o mundo dos nossos dias de um modo abrangente e total, ou seja, nas suas dimensões social, econômica, política, educacional e religiosa. Por isso, adotou o lema Dignidade e plenitude da vida e da criação. Organizada em 23 de novembro de 1996, é uma entidade de caráter cultural, educacional, social e religioso. Tem como objetivos estimular, fazer e divulgar pesquisas no campo político, econômico, social, cultural e religioso e realizar trabalhos de educação, sociais, culturais e religiosos.</p>
+				<p>O Centro de Pesquisa, Estudos, Serviço e Cultura - CEPESC. Nasceu do sonho, da utopia e da luta pela criação de um entidade que refletisse, a partir da perspectiva cristã e no contexto da diversidade cultural, social e religiosa brasileira e da Bahia, o mundo dos nossos dias de um modo abrangente e total, ou seja, nas suas dimensões social, econômica, política, educacional e religiosa. Por isso, adotou o lema Dignidade e plenitude da vida e da criação. Organizada em 23 de novembro de 1996, é uma entidade de caráter cultural, educacional, social e religioso. Tem como objetivos estimular, fazer e divulgar pesquisas no campo político, econômico, social, cultural e religioso e realizar trabalhos de educação, sociais, culturais e religiosos.</p>
 			</div>
 		</div>
 	</div>

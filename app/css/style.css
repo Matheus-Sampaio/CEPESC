@@ -33,13 +33,16 @@ h5 {font-size: 23px;}
 .link_menu { margin-top:20px; }
 .link_menu a{ color:#c29d52 !important;padding: 10px; font-size: 20px;   }
 .link_menu a:hover{ background-color:#c29d52 !important; color:#fff !important; }
-.sidebar {float: left; border-right: 3px solid grey;  padding: 5px; width: 250px; background:#fff; margin:10px; height: auto;overflow:auto; z-index: 1; margin-left: 40px;}
+.sidebar {top: 180px; float: left; border-right: 3px solid grey;  padding: 5px; width: 250px; background:#fff; margin:10px; height: auto;overflow:auto; z-index: 1; margin-left: 40px;}
 .artigo {float: right; width: 80%;  margin-bottom: 40px; margin-right: 30px; }
 .direita{text-align: right;}
 .thumbnail{height: 450px;}
 .artigo {float: right; width: 90%;  margin-bottom: 40px; }
 .direita{text-align: right;}
 .wrapper{width: 80%; float: right;}
+.ordep{padding: 20px;width: 500px; float:right;}
+.ordep-img{width: 100%;}
+.clear-fix{clear: both;}
 
 
 
