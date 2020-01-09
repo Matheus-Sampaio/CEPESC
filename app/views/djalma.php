@@ -3,7 +3,7 @@
 
         <div class="row">
             <div class="col-md-5 col-xs-12">
-                    <img src="app/img/djalma.jpg" alt="Pastor Djalma Torres" id="img3" class="img-responsive">
+                    <img src="app/img/djalma.JPG" alt="Pastor Djalma Torres" id="img3" class="img-responsive">
             </div>
     
             <div class="col-md-7 col-xs-12">
