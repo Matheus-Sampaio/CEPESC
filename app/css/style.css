@@ -9,6 +9,7 @@ nav { min-height: 70px; margin-bottom: 0 !important; background-color: white; }
 p {	text-align: justify}
 cite {padding: 5px;}
 h5 {font-size: 23px;}
+h3{font-size: 40px;}
 
 #main { padding: 70px; margin-top: 50px; background:#c29d52; background: linear-gradient(90deg, rgba(212,173,96,1) 0%, rgba(194,157,82,1) 38%, rgba(145,109,36,1) 100%);}
 #main h1 {font-size: 50px;}
